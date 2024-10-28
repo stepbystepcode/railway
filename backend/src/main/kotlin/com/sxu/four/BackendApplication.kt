@@ -1,11 +1,11 @@
-package com.sxu.railway
+package com.sxu.four
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class RailwayApplication
+class BackendApplication
 
 fun main(args: Array<String>) {
-    runApplication<RailwayApplication>(*args)
+	runApplication<BackendApplication>(*args)
 }

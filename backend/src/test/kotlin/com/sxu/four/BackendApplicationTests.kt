@@ -1,13 +1,13 @@
-package com.sxu.railway
+package com.sxu.four
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class RailwayApplicationTests {
+class BackendApplicationTests {
 
-    @Test
-    fun contextLoads() {
-    }
+	@Test
+	fun contextLoads() {
+	}
 
 }
